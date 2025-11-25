@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🙋🏻‍♀️ All about me 
+<img width="1584" height="396" alt="Professional LinkedIn Banner" src="https://github.com/user-attachments/assets/e45918ee-9efb-4b3d-bde2-231ddd1d4cf5" />
 
-<!--
-**catherineeesy/catherineeesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Kate! I’m an engineering student in the Philippines exploring Data Science and Machine Learning. I’m passionate about using Python, automation, and data-driven insights to solve real-world problems.
 
-Here are some ideas to get you started:
+# 🌱 Currently growing 
+* Python programming
+* Data Science & Machine Learning
+* working on kaggle datasets 
+* Automation and bioinformatics applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 Reach me at 
+  * Linkedin:
+  * sy.catherinee@gmail.com
+  
