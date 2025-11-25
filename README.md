@@ -9,7 +9,8 @@ Hi! I’m Kate, an engineering student in the Philippines. Right now, I'm explor
 * Automation and bioinformatics applications
 
 # 🔨 Tools 
-* Language: Python, VBA  
+* Language: Python, VBA
+* Libraries: Pandas, Numpy, Scikit-learn
 * Software & Application: Visual Code, Excel, Power Automate, Power App
 
 # 📫 Reach me at 
