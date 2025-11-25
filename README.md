@@ -4,7 +4,7 @@
 Hi! I’m Kate, an engineering student in the Philippines. Right now, I'm exploring the intersection of data science and bioinformatics—with growing proficiency in Python and automation, and biomed research.
 
 # 🌱 Currently growing 
-* Data Science & Machine Learning
+* Data Science & Bioinformatics
 * working on kaggle datasets 
 * Automation and bioinformatics applications
 
