@@ -4,10 +4,13 @@
 Hi! I’m Kate, an engineering student in the Philippines. Right now, I'm exploring the intersection of data science and bioinformatics—with growing proficiency in Python and automation, and biomed research.
 
 # 🌱 Currently growing 
-* Python programming
 * Data Science & Machine Learning
 * working on kaggle datasets 
 * Automation and bioinformatics applications
+
+# 🔨 Tools 
+* Language: Python, VBA  
+* Software & Application: Visual Code, Excel, Power Automate, Power App
 
 # 📫 Reach me at 
   * [Linkedin](https://www.linkedin.com/in/catherinesy/)
