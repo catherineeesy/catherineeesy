@@ -10,6 +10,6 @@ Hi! I’m Kate, an engineering student in the Philippines. As of the moment, I'm
 * Automation and bioinformatics applications
 
 # 📫 Reach me at 
-  * Linkedin:
+  * [Linkedin](https://www.linkedin.com/in/catherinesy/)
   * sy.catherinee@gmail.com
   
